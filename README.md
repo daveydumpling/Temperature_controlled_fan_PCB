@@ -4,3 +4,4 @@ The reason why 3 sensors were chosen was to ensure uniform temperature equalizat
 
 I have included the Kicad files in the fan_controller.zip file, along with some screenshots of my design. 
 Hope you like it :) 
+I'm open to suggestions too.
